@@ -1,1 +1,1 @@
-# MMJ-Clinic-Pro diftwate development 
+# MMJ-Clinic-Pro software development 
